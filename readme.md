@@ -1,4 +1,4 @@
-# test-project-vuejs
+# nethernite
 
 ## Project setup
 ```
